@@ -1,0 +1,42 @@
+# Lesson Plan - Introduction to Web Development and Software Engineering
+
+## Course Goals
+
+-   **Foundational Skills in Web Development**: Understand and apply HTML/CSS basics.
+-   **Introduction to Software Engineering Concepts**: Grasp the role of programming languages like Rust in software development.
+-   **Practical Programming Experience**: Write basic programs in Rust.
+-   **Encourage Self-Learning and Curiosity**: Motivate students to explore and learn independently.
+
+## Session Structure
+
+#### Part 1: Introduction to Web Development and HTML/CSS (35 minutes)
+
+1. Web Development Overview (5 minutes)
+    - Brief introduction to web development.
+    - Roles of HTML and CSS.
+2. Basics of HTML (15 minutes)
+    - Structure of an HTML document.
+    - Key HTML tags (p, h1, a, img, ul/li).
+    - Creating a basic HTML page.
+3. Introduction to CSS (10 minutes)
+    - Basic CSS concepts and syntax.
+    - Simple styling: colors, fonts.
+4. Practical Exercise (5 minutes)
+    - Quick task: Modify a simple HTML template with CSS.
+    - Use an online editor like CodePen for immediate feedback.
+
+#### Part 2: Introduction to Rust and Software Engineering (25 minutes)
+
+1. What is Software Engineering? (5 minutes)
+    - Definition and scope of software engineering.
+    - The role of programming languages in software development.
+2. Introduction to Rust (10 minutes)
+    - What is Rust and why is it important?
+    - Basic concepts in Rust (variables, data types).
+    - Writing and running a simple Rust program (e.g., Hello World).
+3. Rust Practical Concepts (7 minutes)
+    - Basic Rust syntax.
+    - Simple exercises (e.g., variable declaration, basic operations).
+4. Wrap-Up and Homework Assignment (3 minutes)
+    - Quick recap of both HTML/CSS and Rust.
+    - Assign homework: Create a basic HTML page and a simple Rust program.
