@@ -1,0 +1,51 @@
+Part of [[Lesson Plan - Introduction to Web Development and Software Engineering|Introduction to Web Development and Software Engineering]].
+
+## 1. Web Development Overview
+
+##### What is Web Development
+
+Web developers build and maintain websites, often working for clients to get their product or service online.
+
+These developers build everything from a scoped to-do app to highly-complex and large-scale applications like a Health Care management system.
+
+The work involves front-end, back-end, or full-stack development and is project-focused, requiring collaboration with a team.
+
+##### Types of Web Developers
+
+Web applications are generally split into two parts
+
+1. **Front End**: The GUI (graphical user interface) where users like you and me interact on a browser
+    - Uses HTML/CSS, JS, PHP, Ruby on Rails etc
+2. **Back End**: The data that powers the frontend
+    - focuses on server-side logic, database interactions and application architecture
+    - Languages: Java, Python, Ruby, JS
+
+Developers focus on either the front end or backend or both (called a Fullstack developer)!
+
+-   I am a Fullstack Developer with an emphasis on the Frontend
+
+##### The Learning Journey
+
+-   Web development is rewarding but can be challenging.
+-   Success in the field often depends on what you can build and demonstrate, rather than formal education or background.
+-   Continuous learning and adapting are crucial.
+
+Throughout this course you'll learn many different tools and programming languages
+
+-   Command Line Interfaces
+-   Git/Github
+-   HTML/CSS, JS, Rust
+-   most importantly I'll impart the confidence to teach yourselves any programming skill you want to learn
+
+## 2. Basics of HTML (15 minutes)
+
+##### What are HTML and CSS
+
+HTML and CSS are the two languages that power what you see and how they are styled on a webpage
+
+-   **HTML** is the raw data that a webpage displays (text, links, lists etc)
+-   **CSS** styles the HTML content (gives color, font, size etc)
+
+Caveat: HTML & CSS are not programming languages; JavaScript is the programming language that provides the logic for websites to do things
+
+##### Elements and Tags
