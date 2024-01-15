@@ -1,73 +1,40 @@
-Part of [[Lesson Plan - Introduction to Web Development and Software Engineering|Introduction to Web Development and Software Engineering]].
+## Course Goals
 
-## 1. Web Development Overview
+-   **Foundational Skills in Web Development**: Understand and apply HTML/CSS basics.
+-   **Introduction to Software Engineering Concepts**: Grasp the role of programming languages like Rust in software development.
+-   **Practical Programming Experience**: Write basic programs in Rust.
+-   **Encourage Self-Learning and Curiosity**: Motivate students to explore and learn independently.
 
-##### What is Web Development
+## Session Structure
 
-Web developers build and maintain websites, often working for clients to get their product or service online.
+###### Part 1: [[1 - Introduction to Web Dev and HTML CSS|Introduction to Web Development and HTML/CSS]] (35 minutes)
 
-These developers build everything from a scoped to-do app to highly-complex and large-scale applications like a Health Care management system.
+1. **Web Development Overview (5 minutes)**
+    - Brief introduction to web development.
+    - Roles of HTML and CSS.
+2. **Basics of HTML (15 minutes)**
+    - Structure of an HTML document.
+    - Key HTML tags (p, h1, a, img, ul/li).
+    - Creating a basic HTML page.
+3. **Introduction to CSS (10 minutes, if possible)**
+    - Basic CSS concepts and syntax.
+    - Simple styling: colors, fonts.
+4. **Practical Exercise (5 minutes)**
+    - Quick task: Modify a simple HTML template with CSS.
+    - Use an online editor like CodePen for immediate feedback.
 
-The work involves front-end, back-end, or full-stack development and is project-focused, requiring collaboration with a team.
+###### Part 2: Introduction to Rust and Software Engineering (25 minutes)
 
-##### Types of Web Developers
-
-Web applications are generally split into two parts
-
-1. **Front End**: The GUI (graphical user interface) where users like you and me interact on a browser
-    - Uses HTML/CSS, JS, PHP, Ruby on Rails etc
-2. **Back End**: The data that powers the frontend
-    - focuses on server-side logic, database interactions and application architecture
-    - Languages: Java, Python, Ruby, JS
-
-Developers focus on either the front end or backend or both (called a Fullstack developer)!
-
--   I am a Fullstack Developer with an emphasis on the Frontend
-
-##### The Learning Journey
-
--   Web development is rewarding but can be challenging.
--   Success in the field often depends on what you can build and demonstrate, rather than formal education or background.
--   Continuous learning and adapting are crucial.
-
-Throughout this course you'll learn many different tools and programming languages
-
--   Command Line Interfaces
--   Git/Github
--   HTML/CSS, JS, Rust
--   most importantly I'll impart the confidence to teach yourselves any programming skill you want to learn
-
-## 2. Basics of HTML (15 minutes)
-
-##### What are HTML and CSS
-
-HTML and CSS are the two languages that power what you see and how they are styled on a webpage
-
--   **HTML** is the raw data that a webpage displays (text, links, lists etc)
--   **CSS** styles the HTML content (gives color, font, size etc)
-
-HTML stands for Hyper Text Markup Language and CSS stands for Cascading Style Sheet.
-
-Caveat: HTML & CSS are not programming languages; JavaScript is the programming language that provides the logic for websites to do things
-
-##### Elements and Tags
-
-> Coding time!
-
-**HTML** is the structure and content of all webpages. We will explore how HTML does this!
-
-Almost everything in HTML are pieces of content wrapped in a "element tag". Tags tell the browser what the content type is.
-
-Opening tag: `<tag>`
-Closing tag: `</tag>`
-
-```HTML
-<p>This is content</p>
-```
-
-Explore the following tags in a demonstration:
-
--   `<p>`
--   `<hn>`
--   `<ul>`, `<ol>`, `<li>`
--   Formatting and breaks!
+1. **What is Software Engineering? (5 minutes)**
+    - Definition and scope of software engineering.
+    - The role of programming languages in software development.
+2. **Introduction to Rust (10 minutes)**
+    - What is Rust and why is it important?
+    - Writing and running a simple Rust program (e.g., Hello World).
+    - Basic concepts in Rust (variables, data types).
+3. **Rust Practical Concepts (7 minutes)**
+    - Basic Rust syntax.
+    - Simple exercises (e.g., variable declaration, basic operations).
+4. **Wrap-Up and Homework Assignment (3 minutes)**
+    - Quick recap of both HTML/CSS and Rust.
+    - Assign homework: Create a basic HTML page and a simple Rust program.
