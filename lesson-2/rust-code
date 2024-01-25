@@ -1,0 +1,24 @@
+Rust Compiler: https://www.programiz.com/rust/online-compiler/
+
+use std::io;
+
+fn main() {
+// Introduction
+println!("Welcome to the Rust Adventure Game!");
+println!("What's your name?");
+let mut name = "Luke Skywalker";
+
+    // Simple decision
+    println!("{}, you are in a dark forest. Do you go left or right? Enter L or R", name);
+    let mut choice = "Left";
+
+    // Process the decision
+    if choice == "Left" {
+        println!("You went left and found a treasure chest!");
+    } else if choice.trim().to_uppercase() == "R" {
+        println!("You went right and encountered a dragon!");
+    } else {
+        println!("Invalid choice. Game over.");
+    }
+
+}
